@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="donnay.ca" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="theEngine.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="donnay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="donnay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="donnay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -62,7 +62,7 @@ BLOG-POST-LIST:END
 -->
 [![Donnay's github stats](https://github-readme-stats.vercel.app/api?username=donnay)](https://github.com/donnay/github-readme-stats)
 
-[website]: https://theEngine.com.com
+[website]: https://theEngine.com
 [twitter]: https://twitter.com/kevindclarke
 [instagram]: https://www.instagram.com/kevindclarke
 [linkedin]: https://www.linkedin.com/in/kevindonnayclarke
