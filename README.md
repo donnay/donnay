@@ -1,4 +1,4 @@
-### Hi there, I'm Kevin - aka [donnay][https://www.theengine.com] 👋
+### Hi there, I'm Kevin - [https://www.theengine.com] 👋
 
 ## I'm a Bear 🐻, Manager 🧑🏼‍💼, and Hacker 👨🏼‍💻!
 - 🌱 I’m currently learning everything 🤣
